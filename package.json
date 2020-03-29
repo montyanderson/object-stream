@@ -1,0 +1,22 @@
+{
+  "name": "object-stream",
+  "version": "1.0.0",
+  "description": "Write a series of objects to a binary stream and vice versa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/object-stream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montyanderson/object-stream/issues"
+  },
+  "homepage": "https://github.com/montyanderson/object-stream#readme",
+  "devDependencies": {
+    "jest": "^25.2.3"
+  }
+}
